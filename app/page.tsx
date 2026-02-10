@@ -60,7 +60,7 @@ export default function Home() {
           <span className="bg-pink-200 px-6 py-2">{billTotal.toFixed(2)}</span>
         </p>
         <a
-  href="https://github.com/072wit"
+  href="https://github.com/072wit/tipcalculator072/tree/main/app/page.tsx"
   target="_blank"
   className="mt-6 text-blue-600 underline"
 >
